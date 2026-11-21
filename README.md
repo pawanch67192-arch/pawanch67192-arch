@@ -165,11 +165,6 @@ Git · GitHub · VS Code · Postman · Vercel · Netlify · Figma · Canva
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawanch67192-arch&bg_color=10091B&color=C084FC&line=8B5CF6&point=E9D5FF&area=true&area_color=8B5CF6&hide_border=true" />
-
-<br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=pawanch67192-arch&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
